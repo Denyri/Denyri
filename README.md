@@ -15,7 +15,10 @@
 
 ---
 
-## 🐻‍❄️ About Me
+
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ3ODdpbTdqdjlta2p1N25ycTNnbHlvdXVlZXM4YmgxZWJ0bjRnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" width="220"/>
+
+🐻‍❄️ **About Me**
 
 - 💡 Passionate about exploring new technologies and continuous learning
 - 🎓 Student at **Politeknik Negeri Batam** · Participant of **Infinite Learning Batch 10**, Batam, Riau Islands 🇮🇩
@@ -24,7 +27,8 @@
 
 ---
 
-## 🛠️ Tech Stack
+
+🛠️ **Tech Stack**
 
 **Languages & Markup**
 
@@ -50,7 +54,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+📊 **GitHub Analytics**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=denyri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
@@ -59,7 +63,7 @@
 
 ---
 
-## 🐍 Contribution Graph
+🐍 **Contribution Graph**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/denyri/denyri/output/snake.svg" alt="Snake animation" />
