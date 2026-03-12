@@ -11,9 +11,9 @@
 
 <br>
 
-<table>
+<table style="border:none;">
 <tr>
-<td width="65%">
+<td width="70%" style="border:none;">
 
 <h2 align="left">🛠 Tech Stack</h2>
 
@@ -37,9 +37,13 @@
 
 </td>
 
-<td width="35%" align="center">
+<td width="30%" align="center" style="border:none;">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNjbThiYjY5bTF1YTh2OHZ1NGQ1a2x6bm83c3lnczZ0NG11b2xnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif" width="260"/>
+<img 
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNjbThiYjY5bTF1YTh2OHZ1NGQ1a2x6bm83c3lnczZ0NG11b2xnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif" 
+width="170"
+style="border-radius:10px;"
+/>
 
 </td>
 </tr>
