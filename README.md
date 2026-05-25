@@ -57,9 +57,8 @@
 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denyri&show_icons=true&theme=ayu-mirage&v=1" height="150"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denyri&layout=compact&theme=ayu-mirage" height="150"/>
+  <img src="https://raw.githubusercontent.com/denyri/denyri/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/denyri/denyri/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ---
