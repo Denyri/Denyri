@@ -57,8 +57,9 @@
 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denyri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denyri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=ayu-mirage&hide_border=false&order=2" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=denyri&show_icons=true&theme=ayu-mirage&v=1" height="150"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denyri&layout=compact&theme=ayu-mirage" height="150"/>
 </div>
 
 ---
